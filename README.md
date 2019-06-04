@@ -28,7 +28,7 @@ Instructions along with sample code base for basic kafka project
 <p>
 <h1>Sample Command Lines</h1>
 <ul>
-  <li>Start Zookeeper (run in installed kafka directory): <b>zookeeper-server-start config/zookeeper.properties</b</li>
+  <li>Start Zookeeper (run in installed kafka directory): <b>zookeeper-server-start config/zookeeper.properties</b></li>
   <li>Start Kafka (run in installed kafka directory): <b>kafka-server-start config/server.properties</b></li>  
     <li> Kafka Topics 
       <ol>
