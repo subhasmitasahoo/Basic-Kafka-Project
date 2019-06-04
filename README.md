@@ -1,4 +1,4 @@
-# Basic-Kafka-Project
+# Sample-Kafka-Application
 Instructions along with sample code base for basic kafka project
 
 #Source: https://www.udemy.com/apache-kafka/
